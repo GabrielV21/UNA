@@ -18,4 +18,9 @@ public class BaseDecorator implements Adicional{
         return wrappee.custo();
     }
 
+    @Override
+    public Tamanho getTamanho() {
+        return wrappee.getTamanho();
+    }
+
 }
