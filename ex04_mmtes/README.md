@@ -1,4 +1,4 @@
-# Prática 4 - Decorator
+# Prática 4 - Adaptor
 
 ## Atividade com proposito de compreender e implementar o padrao Adaptor
 
